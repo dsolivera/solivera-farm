@@ -27,6 +27,12 @@ a {
     }
 }
 
+.rounded-img {
+            border-radius: 5%; /* Makes the image circular if height and width are equal */
+            height: 35px;
+            width: 59px; /* Ensures the image remains a square for a perfect circle */
+        }
+
 h1,
 h2,
 h4,

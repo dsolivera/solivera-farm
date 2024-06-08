@@ -2,11 +2,11 @@
 title:        Solivera Farm
 email:        solivera2g3@gmail.com
 description:  > # this means to ignore newlines until "baseurl:"
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 url:          https://soliveras.com/
 
 tel:
-github_username: 
+github_username:
 
 # Build settings
 markdown: kramdown
